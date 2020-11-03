@@ -40,7 +40,7 @@
     background-color: #2B468B;
 }
 .img-one{
-    background-image: url('/img/bg-1.jpg');   
+    background-image: url('//img/bg-1.jpg');   
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0;
@@ -49,7 +49,7 @@
     height: 300px;
 }
 .img-two{
-    background-image: url('/img/bg-2.jpg');   
+    background-image: url('./img/bg-2.jpg');   
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0;
@@ -58,7 +58,7 @@
     height: 300px;
 }
 .img-three{
-    background-image: url('/img/bg-3.jpg');   
+    background-image: url('img/bg-3.jpg');   
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0;
